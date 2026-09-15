@@ -2,8 +2,7 @@
 #include <math.h>
 
 int main(){
-	int num1, num2, opcao, soma;
-	int subtrair, multiplicar, dividir;
+	int num1, num2, opcao, soma, subtrair, multiplicar, dividir;
 	
 	printf("Digite o primeiro valor: ");
 	scanf("%d", &num1);
